@@ -41,25 +41,15 @@ class BaseExportPipeLine(object):
 class JsonExportPipeline(BaseExportPipeLine):
     def __init__(self):
         super(JsonExportPipeline, self).__init__(JsonItemExporter,"items.json")
-        #self.exporter["indent"]=2
-        #self.exporter["ensure_ascii"]="utf-8"
 class JsonLinesExportPipeline(BaseExportPipeLine):
     def __init__(self):
         super(JsonLinesExportPipeline, self).__init__(JsonLinesItemExporter,"items.jl")
-        #self.exporter["ensure_ascii"]="utf-8"
 class XmlExportPipeline(BaseExportPipeLine):
     def __init__(self):
         super(XmlExportPipeline, self).__init__(XmlItemExporter,"items.xml")
-        #self.root_element = 'items'
-        #self.item_element = 'item'
-        #self.encoding = 'utf-8'
 class CsvExportPipeline(BaseExportPipeLine):
     def __init__(self):
         super(CsvExportPipeline, self).__init__(CsvItemExporter,"items.csv")
-        #self.encoding = 'utf-8'
-        #self.include_headers_line = True
-        #self.stream["encoding"]="utf-8"
-        #self._join_multivalued=","
 class  PickleExportPipeline(BaseExportPipeLine):
     def __init__(self):
         super(PickleExportPipeline, self).__init__(PickleItemExporter,"items.pickle")
