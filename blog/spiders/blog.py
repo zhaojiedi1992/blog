@@ -5,7 +5,13 @@ from ..items import *
 class BlogSpider(scrapy.Spider):
 
     name = "blog"
-    start_urls=["http://www.cnblogs.com/zhaojiedi1992/default.html?page=1"]
+
+    def __init__(self,user="zhaojiedi1992", *args, **kwargs):
+        super(BlogSpider, self).__init__(*args, **kwargs)
+        self.start_urls = ["http://www.cnblogs.com/%s/default.html?page=1" % user]
+        #http://www.cnblogs.com/mvc/blog/ViewCountCommentCout.aspx?postId=7416411
+        #http://www.cnblogs.com/mvc/blog/GetComments.aspx?postId=7416411&blogApp=zhaojiedi1992&pageIndex=0&anchorCommentId=0&_=1503640681602
+        self.user=user
     def parse(self, response):
         lis=response.css(".postTitle a::attr(href)").extract()
         for li in lis:

@@ -1,186 +1,196 @@
 date,read,say,title,url
-2017-04-18 19:24,...,...,iptables防火墙常用配置介绍,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_linux_017_iptabls.html
-2017-04-26 19:33,...,...,基于openssl搭建https服务器,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_linux_019_https.html
+,,,,
 2017-04-30 12:54,...,...,LINUX负载均衡LVS-DR搭建,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_linux_022_lvsdr.html
-2017-05-10 18:29,...,...,oracle12c创建用户提示ORA-65096：公用用户名或角色无效,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_oracle_createuser.html
-2017-04-27 20:06,...,...,httpd的编译安装,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_linux_18_httpd.html
-2017-04-30 09:36,...,...,LINUX负载均衡LVS-NAT搭建,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_linux_021_lvsnat.html
-2017-04-29 16:03,...,...,LAMP环境快速搭建,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_linux_020_lamp.html
 2017-05-02 19:15,...,...,搭建时间服务器,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_linux_022_ntp.html
+2017-05-10 18:29,...,...,oracle12c创建用户提示ORA-65096：公用用户名或角色无效,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_oracle_createuser.html
+2017-04-29 16:03,...,...,LAMP环境快速搭建,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_linux_020_lamp.html
+2017-04-30 09:36,...,...,LINUX负载均衡LVS-NAT搭建,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_linux_021_lvsnat.html
 2017-05-13 10:40,...,...,创建简单WEB高可用集群,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_linux_024_haweb.html
+2017-05-13 09:51,...,...,Linux两台主机之间建立信任（ssh免密码）,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_linux_023_sshgenkey.html
 2017-05-29 14:18,...,...,转载：给你掰扯清楚什么是正向代理，什么是反向代理,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_linux_025_agent.html
 2017-06-09 08:15,...,...,DocX开源WORD操作组件的学习系列一,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_sharp_001_docx1.html
 2017-06-09 09:03,...,...,DocX开源WORD操作组件的学习系列二,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_csharp_005_docx2.html
-2017-05-13 09:51,...,...,Linux两台主机之间建立信任（ssh免密码）,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_linux_023_sshgenkey.html
 2017-06-09 12:59,...,...,DocX开源WORD操作组件的学习系列三,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_csharp_006_docx3.html
-2017-06-09 16:13,...,...,DocX开源WORD操作组件的学习系列四,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_csharp_006_docx4.html
 2017-05-12 15:03,...,...,创建全国省市县编码数据库（最新）,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_plsql_070_city.html
-2017-02-11 23:04,...,...,Centos创建ftp服务器,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_linux_006_ftp.html
-2017-02-09 12:53,...,...,Centos7搭建邮件服务器-Postfix+Cyrus-sasl+Courier-authlib+Dovecot+ExtMail+Centos7,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_linux_005_mail.html
+2017-06-28 20:33,...,...,ansible学习系列1-ansible简介,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_linux_031_ansible01.html
+2017-06-09 16:13,...,...,DocX开源WORD操作组件的学习系列四,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_csharp_006_docx4.html
+2017-06-10 11:21,...,...,LEMP平台全编译搭建,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_linux_026_lemp.html
 2017-02-23 14:19,...,...,TCPWarp的使用配置,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_linux_008.html
 2017-02-20 23:18,...,...,centos7下安装samba服务器,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_linux_007_samba.html
 2017-02-25 20:32,...,...,MYSQL事务隔离级别详解附加实验,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_mysql_001.html
 2017-03-06 13:36,...,...,MODIS数据的下载（新地址）,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_other_001_modis.html
+2017-02-09 12:53,...,...,Centos7搭建邮件服务器-Postfix+Cyrus-sasl+Courier-authlib+Dovecot+ExtMail+Centos7,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_linux_005_mail.html
+2017-02-11 23:04,...,...,Centos创建ftp服务器,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_linux_006_ftp.html
 2017-03-14 19:08,...,...,bash 的配置文件加载顺序,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_linux_010.html
-2017-03-14 18:02,...,...,sudo的使用和配置,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_linux_009.html
-2017-03-26 12:22,...,...,LINUX服务器搭建和常用配置介绍,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_linux_000_linux.html
 2017-03-25 10:05,...,...,搭建私有CA服务器,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_linux_011_ca.html
 2017-03-25 11:00,...,...,LINUX LVM和快照卷配置和管理,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_linux_012_lvm.html
+2017-03-26 12:22,...,...,LINUX服务器搭建和常用配置介绍,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_linux_000_linux.html
 2017-03-26 13:28,...,...,DNS服务器的搭建,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_linux_013_dns.html
-2017-04-03 17:29,...,...,apache配置虚拟主机的三种方式,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_linux_016_virtualhost.html
-,,,,
+2017-03-14 18:02,...,...,sudo的使用和配置,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_linux_009.html
 2017-04-02 11:10,...,...,crontab的使用笔记,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_linux_014_crontab.html
 2017-04-02 11:16,...,...,DHCP服务器的搭建,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_linux_015_dhcp.html
-2017-06-10 11:21,...,...,LEMP平台全编译搭建,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_linux_026_lemp.html
-2017-07-18 20:39,...,...,开发和运行爬虫程序在scrapyhub的云平台上,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_python_004_scrapyhub.html
-2017-06-28 20:33,...,...,ansible学习系列1-ansible简介,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_linux_031_ansible01.html
-2017-08-11 12:03,...,...,ORA-12154：TNS：无法解析指定的连接标识符,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_oracle_004_ora12154.html
+2017-04-18 19:24,...,...,iptables防火墙常用配置介绍,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_linux_017_iptabls.html
+2017-04-26 19:33,...,...,基于openssl搭建https服务器,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_linux_019_https.html
 2017-06-28 22:01,...,...,ansible学习系列2-ansible常用模块使用,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_linux_032_ansible02.html
-2017-08-22 17:55,...,...,scrapy pipelines导出各种格式,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_python_005_scrapy.html
-2017-08-23 09:01,...,...,windows下安装bpython方法 （新）,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_python_006_bpython.html
 ,,,,
-2016-01-12 11:44,...,...,窗体之间传递值的几种方法,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_cs_0002.html
-2016-02-14 23:01,...,...,jquery选择器,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_js_002.html
-2016-01-12 11:43,...,...,常见的六种排序算法实现,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_c_000001.html
-2016-02-02 13:42,...,...,四种数据库分页查询的编写,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_sql_001.html
-2016-02-06 00:22,...,...,js仿qq分组折叠效果,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_js_001.html
-2016-02-15 01:43,...,...,jquery中的dom操作,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_js_003.html
+2017-07-18 20:39,...,...,开发和运行爬虫程序在scrapyhub的云平台上,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_python_004_scrapyhub.html
+2017-04-03 17:29,...,...,apache配置虚拟主机的三种方式,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_linux_016_virtualhost.html
+2017-08-11 12:03,...,...,ORA-12154：TNS：无法解析指定的连接标识符,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_oracle_004_ora12154.html
+,,,,
+2017-08-22 17:55,...,...,scrapy pipelines导出各种格式,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_python_005_scrapy.html
+2015-12-14 10:31,...,...,STL学习系列九：Map和multimap容器,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_stl_009.html
+2015-12-31 15:47,...,...,c#动态加载dll文件,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_cs_0001.html
 2016-01-04 15:07,...,...,OracleHelper类,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_oracle_0001.html
+2016-01-12 11:44,...,...,窗体之间传递值的几种方法,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_cs_0002.html
+2017-08-23 09:01,...,...,windows下安装bpython方法 （新）,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_python_006_bpython.html
+2016-01-12 11:43,...,...,常见的六种排序算法实现,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_c_000001.html
 2016-01-26 13:36,...,...,四叉树编码存储的实现,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_cs_0003.html
-2013-09-14 07:48,...,...,system partition table,http://www.cnblogs.com/zhaojiedi1992/p/oracle_1.html
-2013-06-29 23:19,...,...,学习动态性能表 v$sql,http://www.cnblogs.com/zhaojiedi1992/p/oracle11g_sql_0068.html
+2016-02-06 00:22,...,...,js仿qq分组折叠效果,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_js_001.html
+2016-02-02 13:42,...,...,四种数据库分页查询的编写,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_sql_001.html
+2016-02-15 14:33,...,...,jquery中的事件,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_js_004.html
+2016-02-15 15:21,...,...,jquery中的动画,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_js_005.html
+2016-02-14 23:01,...,...,jquery选择器,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_js_002.html
+2016-02-15 01:43,...,...,jquery中的dom操作,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_js_003.html
+2016-04-05 21:27,...,...,c#调用c++ dll的一个例子,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_cs_001.html
 2013-06-04 21:16,...,...,oracle11g快速入门习题集答案——oracle11g快速入门,http://www.cnblogs.com/zhaojiedi1992/archive/2013/06/04/oracle11g_sql_0065.html
 2013-06-23 12:49,...,...,解决oracle_4031错误的方法,http://www.cnblogs.com/zhaojiedi1992/p/oracle11g_sql_0066.html
-,,,,
+2013-06-29 23:19,...,...,学习动态性能表 v$sql,http://www.cnblogs.com/zhaojiedi1992/p/oracle11g_sql_0068.html
+2013-09-14 07:48,...,...,system partition table,http://www.cnblogs.com/zhaojiedi1992/p/oracle_1.html
 2013-10-03 09:13,...,...,Oracle ABP(Autotask Background Process),http://www.cnblogs.com/zhaojiedi1992/p/oracle_56.html
 2013-10-03 10:36,...,...,oralce health monitor,http://www.cnblogs.com/zhaojiedi1992/p/oracle_57.html
-2015-11-15 19:48,...,...,STL学习系列一：STL(标准模板库)理论基础,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_stl_001.html
-2013-10-06 08:52,...,...,flashback data archive （转）,http://www.cnblogs.com/zhaojiedi1992/p/oracle_60.html
-2015-08-12 20:24,...,...,最小二乘原理求解线性回归方程,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_csharp.html
-2015-11-15 20:45,...,...,STL学习系列二：Vector容器,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_stl_002.html
 2013-10-06 08:28,...,...,oracle flashback,http://www.cnblogs.com/zhaojiedi1992/p/oracle_59.html
-2012-07-21 12:51,...,...,hduoj1097A hard puzzle,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/21/zhaojiedi_2012_06_05.html
-2012-07-21 12:54,...,...,nyoj1008   Elevator,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/21/zhaojiedi_2012_05_29.html
-2012-07-21 12:57,...,...,hduoj1108最小公倍数,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/21/zhaojiedi_2012_05_290.html
-2012-07-21 13:06,...,...,hduoj1095A+B for Input-Output Practice (VII),http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/21/zhaojiedi_2012_05_270.html
-2012-07-21 13:03,...,...,hduoj1096A+B for Input-Output Practice (VIII),http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/21/zhaojiedi_2012_05_27.html
-2012-07-21 13:14,...,...,hduoj1093A+B for Input-Output Practice (V),http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/21/zhaojiedi_2012_05_27000.html
-2012-07-27 22:44,...,...,HDUOJ3782  xxx定律,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/27/zhaojiedi_2012_07_23.html
-2012-07-21 13:11,...,...,hduoj1094A+B for Input-Output Practice (VI),http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/21/zhaojiedi_2012_05_2700.html
-2012-07-27 22:02,...,...,NYOJ477A+B Problem III,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/27/zhaojiedi_2012_06_090.html
+2015-08-12 20:24,...,...,最小二乘原理求解线性回归方程,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_csharp.html
+2013-10-06 08:52,...,...,flashback data archive （转）,http://www.cnblogs.com/zhaojiedi1992/p/oracle_60.html
+2015-11-15 20:45,...,...,STL学习系列二：Vector容器,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_stl_002.html
+2015-11-15 19:48,...,...,STL学习系列一：STL(标准模板库)理论基础,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_stl_001.html
+2015-11-17 11:37,...,...,STL学习系列三：Deque容器,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_stl_003.html
+,,,,
 2012-07-27 22:01,...,...,NYOJ266字符串逆序输出,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/27/zhaojiedi_2012_06_09.html
-2012-07-27 22:07,...,...,NYOJ33蛇形填数,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/27/zhaojiedi_2012_06_0800.html
+2012-07-27 22:02,...,...,NYOJ477A+B Problem III,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/27/zhaojiedi_2012_06_090.html
 2012-07-27 22:04,...,...,NYOJ241字母统计,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/27/zhaojiedi_2012_06_0900.html
 2012-07-27 22:05,...,...,NYOJ56阶乘因式分解（一）,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/27/zhaojiedi_2012_06_08.html
+2012-07-27 22:07,...,...,NYOJ33蛇形填数,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/27/zhaojiedi_2012_06_0800.html
 2012-07-27 22:08,...,...,NYOJ243交换输出,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/27/zhaojiedi_2012_06_07.html
-2012-12-17 17:07,...,...,构造函数和析构函数,http://www.cnblogs.com/zhaojiedi1992/archive/2012/12/17/142857_12_12_17-1.html
-2012-12-17 17:09,...,...,静态变量动态变量全局变量局部变量,http://www.cnblogs.com/zhaojiedi1992/archive/2012/12/17/142857_12_12_17-2.html
-2012-11-14 21:38,...,...,NYOJ148fibonacci数列(二),http://www.cnblogs.com/zhaojiedi1992/archive/2012/11/14/zhaojiedi1992_2012_11_02.html
-2012-08-14 11:25,...,...,NYOJ 8 一种排序,http://www.cnblogs.com/zhaojiedi1992/archive/2012/08/14/zhaojiedi_2012_08_12.html
-2012-08-14 11:26,...,...,NYOJ 60 谁获得了最高奖学金,http://www.cnblogs.com/zhaojiedi1992/archive/2012/08/14/zhaojiedi_2012_08_120.html
-2012-08-14 11:30,...,...,NYOJ199无线网络覆盖,http://www.cnblogs.com/zhaojiedi1992/archive/2012/08/14/zhaojiedi_2012_08_10.html
-2012-08-14 11:28,...,...,NYOJ125盗梦空间,http://www.cnblogs.com/zhaojiedi1992/archive/2012/08/14/zhaojiedi_2012_08_1200.html
-2012-08-02 14:36,...,...,NYOJ216A problem is easy,http://www.cnblogs.com/zhaojiedi1992/archive/2012/08/02/zhaojiedi_2012_08_0200.html
-2012-08-02 14:39,...,...,NYOJ283对称排序,http://www.cnblogs.com/zhaojiedi1992/archive/2012/08/02/zhaojiedi_2012_08_020000.html
+2012-07-27 22:09,...,...,NYOJ24素数距离问题,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/27/zhaojiedi_2012_06_06.html
 2012-08-02 14:34,...,...,NYOJ204Coin Test,http://www.cnblogs.com/zhaojiedi1992/archive/2012/08/02/zhaojiedi_2012_08_020.html
+2012-08-02 14:36,...,...,NYOJ216A problem is easy,http://www.cnblogs.com/zhaojiedi1992/archive/2012/08/02/zhaojiedi_2012_08_0200.html
 2012-08-02 14:37,...,...,NYOJ217a letter and a number,http://www.cnblogs.com/zhaojiedi1992/archive/2012/08/02/zhaojiedi_2012_08_02000.html
-2012-08-02 14:42,...,...,NYOJ94cigarettes,http://www.cnblogs.com/zhaojiedi1992/archive/2012/08/02/zhaojiedi_2012_08_020000000.html
-2012-08-02 14:41,...,...,NYOJ122Triangular Sums,http://www.cnblogs.com/zhaojiedi1992/archive/2012/08/02/zhaojiedi_2012_08_02000000.html
-2012-08-02 14:44,...,...,NYOJ62笨小熊,http://www.cnblogs.com/zhaojiedi1992/archive/2012/08/02/zhaojiedi_2012_08_01.html
+2012-08-02 14:39,...,...,NYOJ283对称排序,http://www.cnblogs.com/zhaojiedi1992/archive/2012/08/02/zhaojiedi_2012_08_020000.html
 2012-08-02 14:40,...,...,NYOJ484The Famous Clock,http://www.cnblogs.com/zhaojiedi1992/archive/2012/08/02/zhaojiedi_2012_08_0200000.html
-2012-08-02 14:58,...,...,TOJ1153.   Word Reversal,http://www.cnblogs.com/zhaojiedi1992/archive/2012/08/02/zhaojiedi_2012_08_010.html
-2012-08-02 16:12,...,...,TOJ1601.   Box of Bricks,http://www.cnblogs.com/zhaojiedi1992/archive/2012/08/02/zhaojiedi_2012_08_01000.html
-2012-08-02 16:14,...,...,TOJ3070.   Encryption,http://www.cnblogs.com/zhaojiedi1992/archive/2012/08/02/zhaojiedi_2012_08_010000.html
-2012-08-14 11:12,...,...,博弈（取石子）专题,http://www.cnblogs.com/zhaojiedi1992/archive/2012/08/14/haojiedi_2012_08_14.html
-2012-08-14 11:23,...,...,NYOJ135  取石子（二）,http://www.cnblogs.com/zhaojiedi1992/archive/2012/08/14/zhaojiedi_2012_08_140.html
-2012-08-02 16:04,...,...,TOJ1547.   To and Fro,http://www.cnblogs.com/zhaojiedi1992/archive/2012/08/02/zhaojiedi_2012_08_0100.html
-2012-08-14 18:16,...,...,怎样调试程序,http://www.cnblogs.com/zhaojiedi1992/archive/2012/08/14/zhaojiedi_2012_08-14000.html
-2012-08-17 17:55,...,...,培训课件,http://www.cnblogs.com/zhaojiedi1992/archive/2012/08/17/zhaojiedi_2012_08_160.html
-2012-08-21 19:54,...,...,NK1437: 校长杯,http://www.cnblogs.com/zhaojiedi1992/archive/2012/08/21/zhaojiedi1992_2012_08_20.html
-2012-08-21 09:48,...,...,二级考试c,http://www.cnblogs.com/zhaojiedi1992/archive/2012/08/21/zhaojiedi1992_2012_08_21.html
-2012-08-23 17:03,...,...,NYOJ26孪生素数问题,http://www.cnblogs.com/zhaojiedi1992/archive/2012/08/23/zhaojiedi_2012_08_23.html
-2012-08-23 17:04,...,...,NYOJ448   寻找最大数,http://www.cnblogs.com/zhaojiedi1992/archive/2012/08/23/zhaojiedi_2012_08_230.html
-2012-08-21 19:57,...,...,HDUOJ1372Knight Moves,http://www.cnblogs.com/zhaojiedi1992/archive/2012/08/21/zhaojiedi_2012_08_2000.html
-2012-08-23 17:05,...,...,NYOJ289苹果,http://www.cnblogs.com/zhaojiedi1992/archive/2012/08/23/zhaojiedi1992_2012_08_2300.html
-2012-08-23 17:07,...,...,NYOJ311完全背包,http://www.cnblogs.com/zhaojiedi1992/archive/2012/08/23/zhaojiedi1992_2012_08_22.html
-2012-08-23 17:08,...,...,NYOJ128前缀式计算,http://www.cnblogs.com/zhaojiedi1992/archive/2012/08/23/zhaojiedi_2012_08_1600.html
-2012-11-02 08:47,...,...,NYOJ176 整数划分（二）,http://www.cnblogs.com/zhaojiedi1992/archive/2012/11/02/zhaojiedi-20121102.html
-2012-11-02 08:50,...,...,NYOJ427 NUMBER SEQUENCE,http://www.cnblogs.com/zhaojiedi1992/archive/2012/11/02/zhaojiedi-201211020.html
-2012-11-02 08:53,...,...,NYOJ467 中缀式变后缀式,http://www.cnblogs.com/zhaojiedi1992/archive/2012/11/02/zhaojiedi-2012110200.html
-2012-11-12 21:54,...,...,NYOJ325zb的生日,http://www.cnblogs.com/zhaojiedi1992/archive/2012/11/12/zhaojiedi_2012_11_11.html
-2012-11-12 21:57,...,...,NYOJ20吝啬的国度,http://www.cnblogs.com/zhaojiedi1992/archive/2012/11/12/zhaojiedi_2012_11_11_2.html
-2012-11-12 22:01,...,...,NYOJ287Radar,http://www.cnblogs.com/zhaojiedi1992/archive/2012/11/12/zhaojiedi_2012_11_11_03.html
-2012-11-12 22:04,...,...,NYOJ236心急的C小加,http://www.cnblogs.com/zhaojiedi1992/archive/2012/11/12/zhaojiedi_2012_11_11_3.html
-2012-11-12 22:06,...,...,NYOJ71独木舟上的旅行,http://www.cnblogs.com/zhaojiedi1992/archive/2012/11/12/zhaojiedi_2012_11_11_4.html
-2012-11-12 21:42,...,...,NYOJ92图像有用区域,http://www.cnblogs.com/zhaojiedi1992/archive/2012/11/12/zhaojiedi1992_2012_11_12.html
-2012-11-12 21:50,...,...,NYOJ488素数环,http://www.cnblogs.com/zhaojiedi1992/archive/2012/11/12/zhaojiedi_2012_11_12_2.html
-2012-11-12 22:08,...,...,NYOJ47过河问题,http://www.cnblogs.com/zhaojiedi1992/archive/2012/11/12/zhaojiedi_2012_11_11_5.html
-2013-05-07 22:09,...,...,管理例程——数据库管理员,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/07/oracle11g_sql_0026.html
-2012-11-14 21:36,...,...,NYOJ519密码发生器,http://www.cnblogs.com/zhaojiedi1992/archive/2012/11/14/zhaojiedi1992_2012_11_14.html
+2012-08-02 14:41,...,...,NYOJ122Triangular Sums,http://www.cnblogs.com/zhaojiedi1992/archive/2012/08/02/zhaojiedi_2012_08_02000000.html
+2012-08-02 14:42,...,...,NYOJ94cigarettes,http://www.cnblogs.com/zhaojiedi1992/archive/2012/08/02/zhaojiedi_2012_08_020000000.html
+2012-08-02 14:44,...,...,NYOJ62笨小熊,http://www.cnblogs.com/zhaojiedi1992/archive/2012/08/02/zhaojiedi_2012_08_01.html
 2013-05-07 19:13,...,...,hduoj  1518square,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/07/zhaojiedi.html
-2013-05-07 22:51,...,...,管理例程——特权用户验证,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/07/oracle11g_sql_0027.html
 2013-05-08 07:20,...,...,管理例程——管理初始化参数——常用参数,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/08/oracle11g_sql_0028.html
 2013-05-08 17:04,...,...,管理例程——管理初始化参数——修改动态参数和静态参数,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/08/oracle11g_sql_0030.html
+2013-05-13 22:11,...,...,启动和停止数据库——启动例程并打开数据库,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/13/oracle11g_sql_0032.html
+2013-05-07 22:09,...,...,管理例程——数据库管理员,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/07/oracle11g_sql_0026.html
+2013-05-07 22:51,...,...,管理例程——特权用户验证,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/07/oracle11g_sql_0027.html
 2013-05-08 07:35,...,...,管理例程——管理初始化参数——参数文件,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/08/oracle11g_sql_0029.html
 2013-05-09 13:56,...,...,管理例程——管理初始化参数——显示参数文件,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/09/oracle11g_sql_0031.html
-2013-05-13 22:11,...,...,启动和停止数据库——启动例程并打开数据库,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/13/oracle11g_sql_0032.html
 2013-05-14 11:40,...,...,启动和停止数据库——停止例程,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/14/oracle11g_sql_0033.html
+2013-05-14 17:06,...,...,启动和停止数据库——停顿和暂停数据库,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/14/oracle11g_sql_0034.html
 2013-05-14 17:12,...,...,启动和停止数据库——显示例程信息,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/14/oracle11g_sql_0035.html
 2013-05-14 22:15,...,...,数据字典和动态性能视图——数据字典,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/14/oracle11g_sql_0036.html
 2013-05-14 22:36,...,...,数据字典和动态性能视图——常用数据字典,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/14/oracle11g_sql_0037.html
-2013-05-14 17:06,...,...,启动和停止数据库——停顿和暂停数据库,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/14/oracle11g_sql_0034.html
 2013-05-15 19:43,...,...,数据字典和动态性能视图——动态性能视图,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/15/oracle11g_sql_0038.html
 2013-05-17 22:59,...,...,复杂查询——数据分组——分组函数,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/17/oracle11g_sql_0040.html
 2013-05-16 13:24,...,...,数据字典和动态性能视图——常用动态性能视图,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/16/oracle11g_sql_0039.html
 2013-05-21 18:39,...,...,管理表空间和数据文件——数据库逻辑结构,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/21/oracle11g_sql_0041.html
 2013-05-21 18:55,...,...,管理表空间和数据文件——建立表空间——建立本地管理表空间,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/21/oracle11g_sql_0042.html
-2013-05-21 22:38,...,...,管理表空间和数据文件——建立表空间——建立字典管理表空间和建立加密表空间,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/21/oracle11g_sql_0043.html
+2012-11-14 21:38,...,...,NYOJ148fibonacci数列(二),http://www.cnblogs.com/zhaojiedi1992/archive/2012/11/14/zhaojiedi1992_2012_11_02.html
 2012-11-14 21:40,...,...,NYOJ176整数划分（二）,http://www.cnblogs.com/zhaojiedi1992/archive/2012/11/14/zhaojiedi1992_2012_10_26.html
 2012-11-14 21:42,...,...,NYOJ427Number Sequence,http://www.cnblogs.com/zhaojiedi1992/archive/2012/11/14/zhaojiedi1992_2012_10_260.html
 2012-11-14 21:44,...,...,NYOJ467中缀式变后缀式,http://www.cnblogs.com/zhaojiedi1992/archive/2012/11/14/zhaojiedi1992_2012_10_2600.html
-2012-11-14 21:48,...,...,NYOJ44子串和,http://www.cnblogs.com/zhaojiedi1992/archive/2012/11/14/zhaojiedi1992_2012_10_260000.html
 2012-11-14 21:46,...,...,NYOJ524A-B Problem,http://www.cnblogs.com/zhaojiedi1992/archive/2012/11/14/zhaojiedi1992_2012_10_26000.html
-2012-12-17 13:56,...,...,运算符重载实现复数的加减乘除,http://www.cnblogs.com/zhaojiedi1992/archive/2012/12/17/142857_12_12_17.html
+2012-11-14 21:48,...,...,NYOJ44子串和,http://www.cnblogs.com/zhaojiedi1992/archive/2012/11/14/zhaojiedi1992_2012_10_260000.html
 2012-11-14 21:50,...,...,NYOJ58最少步数,http://www.cnblogs.com/zhaojiedi1992/archive/2012/11/14/zhaojiedi1992_2012_10_25.html
 2012-11-30 07:31,...,...,最短路径算法,http://www.cnblogs.com/zhaojiedi1992/archive/2012/11/30/20121130_0.html
-2013-05-22 13:05,...,...,管理表空间和数据文件——建立表空间——建立大文件表空间和建立undo表空间和建立非标准表空间,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/22/oracle11g_sql_0045.html
-2013-05-22 16:43,...,...,管理表空间和数据文件——维护表空间——改变表空间的可用性,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/22/oracle11g_sql_0047.html
-2013-05-22 19:44,...,...,管理表空间和数据文件——维护表空间——改变表空间的读写状态和改变表空间名称,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/22/oracle11g_sql_0048.html
-2013-05-22 13:41,...,...,管理表空间和数据文件——建立表空间——建立临时表空间,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/22/oracle11g_sql_0046.html
-2013-05-21 22:41,...,...,oracle Wallet的使用,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/21/oracle11g_sql_0044.html
-2013-05-23 12:34,...,...,管理表空间和数据文件——扩展表空间,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/23/oracle11g_sql_0050.html
-2013-05-23 18:25,...,...,管理表空间和数据文件——移动数据文件,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/23/oracle11g_sql_0051.html
-2013-05-22 21:35,...,...,管理表空间和数据文件——维护表空间——设置默认表空间和删除表空间和删除数据文件盒临时文件,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/22/oracle11g_sql_0049.html
-2013-05-24 21:26,...,...,管理表空间和数据文件——使用OMF方式管理表空间,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/24/oracle11g_sql_0052.html
-2013-05-25 09:05,...,...,管理对象空间——段,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/25/oracle11g_sql_0054.html
-2013-05-25 14:23,...,...,管理对象空间——管理存储参数,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/25/oracle11g_sql_0055.html
-2013-05-25 21:31,...,...,管理对象空间——使用存储参数和显示区信息,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/25/oracle11g_sql_0056.html
-2013-05-24 23:06,...,...,管理表空间和数据文件——显示表空间和数据文件信息,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/24/oracle11g_sql_0053.html
-2013-05-26 21:10,...,...,管理数据块空间——块空间参数,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/26/oracle11g_sql_0057.html
-2013-05-27 11:13,...,...,管理数据块空间,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/27/oracle11g_sql_0058.html
-2013-05-28 17:29,...,...,管理用户和PROFILE——用户方案和profile,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/28/oracle11g_sql_0059.html
-2013-05-28 20:06,...,...,管理用户和PROFILE——管理用户,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/28/oracle11g_sql_0060.html
-2013-05-29 20:23,...,...,管理用户和PROFILE ——管理PROFILE——使用PROFILE管理口令,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/29/oracle11g_sql_0062.html
-2013-05-31 20:57,...,...,管理用户和PROFILE ——管理PROFILE——使用PROFILE管理资源,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/31/oracle11g_sql_0063.html
-2013-05-29 11:10,...,...,管理用户和PROFILE——管理用户——修改用户,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/29/oracle11g_sql_0061.html
+2012-12-17 13:56,...,...,运算符重载实现复数的加减乘除,http://www.cnblogs.com/zhaojiedi1992/archive/2012/12/17/142857_12_12_17.html
+2012-12-17 17:07,...,...,构造函数和析构函数,http://www.cnblogs.com/zhaojiedi1992/archive/2012/12/17/142857_12_12_17-1.html
+2012-12-17 17:09,...,...,静态变量动态变量全局变量局部变量,http://www.cnblogs.com/zhaojiedi1992/archive/2012/12/17/142857_12_12_17-2.html
 2012-12-17 17:10,...,...,继承类调用顺序,http://www.cnblogs.com/zhaojiedi1992/archive/2012/12/17/142857_12_12_17-3.html
 2012-12-17 17:12,...,...,输出全班学生的信息,http://www.cnblogs.com/zhaojiedi1992/archive/2012/12/17/142857_12_12_17-4.html
 2013-01-02 11:58,...,...,NYOJ127星际之门（一）,http://www.cnblogs.com/zhaojiedi1992/archive/2013/01/02/142857_20130102.html
 2013-04-04 10:53,...,...,"oracle字符类型 char,varchar2,varchar,clob,nvarchar,nclob",http://www.cnblogs.com/zhaojiedi1992/archive/2013/04/04/oracle_sql_zifu_0.html
-2013-06-01 08:48,...,...,Io 异常 The Network Adapter could not establish the connection的三种解决方法,http://www.cnblogs.com/zhaojiedi1992/archive/2013/06/01/oracle11g_sql_0064.html
 2013-04-12 21:19,...,...,oracle11g安装先决条件全部失败,http://www.cnblogs.com/zhaojiedi1992/archive/2013/04/12/oracle11g_sql_001.html
 2013-04-30 21:16,...,...,使用控制结构——条件分支语句——简单条件,http://www.cnblogs.com/zhaojiedi1992/archive/2013/04/30/oracle11g_sql_002.html
+2012-08-02 14:58,...,...,TOJ1153.   Word Reversal,http://www.cnblogs.com/zhaojiedi1992/archive/2012/08/02/zhaojiedi_2012_08_010.html
+2012-08-02 16:04,...,...,TOJ1547.   To and Fro,http://www.cnblogs.com/zhaojiedi1992/archive/2012/08/02/zhaojiedi_2012_08_0100.html
+2012-08-02 16:12,...,...,TOJ1601.   Box of Bricks,http://www.cnblogs.com/zhaojiedi1992/archive/2012/08/02/zhaojiedi_2012_08_01000.html
+2012-08-02 16:14,...,...,TOJ3070.   Encryption,http://www.cnblogs.com/zhaojiedi1992/archive/2012/08/02/zhaojiedi_2012_08_010000.html
+2012-08-14 11:12,...,...,博弈（取石子）专题,http://www.cnblogs.com/zhaojiedi1992/archive/2012/08/14/haojiedi_2012_08_14.html
+2012-08-14 11:23,...,...,NYOJ135  取石子（二）,http://www.cnblogs.com/zhaojiedi1992/archive/2012/08/14/zhaojiedi_2012_08_140.html
+2012-08-14 11:25,...,...,NYOJ 8 一种排序,http://www.cnblogs.com/zhaojiedi1992/archive/2012/08/14/zhaojiedi_2012_08_12.html
+2012-08-14 11:26,...,...,NYOJ 60 谁获得了最高奖学金,http://www.cnblogs.com/zhaojiedi1992/archive/2012/08/14/zhaojiedi_2012_08_120.html
+2012-08-14 11:28,...,...,NYOJ125盗梦空间,http://www.cnblogs.com/zhaojiedi1992/archive/2012/08/14/zhaojiedi_2012_08_1200.html
+2012-08-14 11:30,...,...,NYOJ199无线网络覆盖,http://www.cnblogs.com/zhaojiedi1992/archive/2012/08/14/zhaojiedi_2012_08_10.html
+2012-08-14 18:16,...,...,怎样调试程序,http://www.cnblogs.com/zhaojiedi1992/archive/2012/08/14/zhaojiedi_2012_08-14000.html
+2012-08-17 17:55,...,...,培训课件,http://www.cnblogs.com/zhaojiedi1992/archive/2012/08/17/zhaojiedi_2012_08_160.html
+2012-08-21 09:48,...,...,二级考试c,http://www.cnblogs.com/zhaojiedi1992/archive/2012/08/21/zhaojiedi1992_2012_08_21.html
+2012-08-21 19:54,...,...,NK1437: 校长杯,http://www.cnblogs.com/zhaojiedi1992/archive/2012/08/21/zhaojiedi1992_2012_08_20.html
+2012-08-21 19:57,...,...,HDUOJ1372Knight Moves,http://www.cnblogs.com/zhaojiedi1992/archive/2012/08/21/zhaojiedi_2012_08_2000.html
+2012-08-23 17:03,...,...,NYOJ26孪生素数问题,http://www.cnblogs.com/zhaojiedi1992/archive/2012/08/23/zhaojiedi_2012_08_23.html
+2012-08-23 17:04,...,...,NYOJ448   寻找最大数,http://www.cnblogs.com/zhaojiedi1992/archive/2012/08/23/zhaojiedi_2012_08_230.html
+2012-08-23 17:05,...,...,NYOJ289苹果,http://www.cnblogs.com/zhaojiedi1992/archive/2012/08/23/zhaojiedi1992_2012_08_2300.html
+2012-08-23 17:07,...,...,NYOJ311完全背包,http://www.cnblogs.com/zhaojiedi1992/archive/2012/08/23/zhaojiedi1992_2012_08_22.html
+2012-07-21 12:51,...,...,hduoj1097A hard puzzle,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/21/zhaojiedi_2012_06_05.html
+2012-07-21 12:54,...,...,nyoj1008   Elevator,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/21/zhaojiedi_2012_05_29.html
+2012-07-21 12:57,...,...,hduoj1108最小公倍数,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/21/zhaojiedi_2012_05_290.html
+2012-07-21 13:03,...,...,hduoj1096A+B for Input-Output Practice (VIII),http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/21/zhaojiedi_2012_05_27.html
+2012-07-21 13:06,...,...,hduoj1095A+B for Input-Output Practice (VII),http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/21/zhaojiedi_2012_05_270.html
+2012-07-21 13:11,...,...,hduoj1094A+B for Input-Output Practice (VI),http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/21/zhaojiedi_2012_05_2700.html
+2012-07-21 13:14,...,...,hduoj1093A+B for Input-Output Practice (V),http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/21/zhaojiedi_2012_05_27000.html
+2012-07-21 13:16,...,...,hduoj1092,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/21/zhaojiedi_2012_05_270000.html
+2012-07-21 13:18,...,...,hduoj1091A+B for Input-Output Practice (III),http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/21/zhaojiedi_2012_05_2700000.html
+2012-07-21 13:20,...,...,hduoj1090A+B for Input-Output Practice (II),http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/21/zhaojiedi_2012_05_27000000.html
+2012-07-21 13:22,...,...,hduoj1089A+B for Input-Output Practice (I),http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/21/zhaojiedi_2012_05_270000000.html
+2012-07-22 11:45,...,...,hduoj1042N!,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/22/zhaojiedi_2012_07_22.html
+2012-07-22 12:26,...,...,HDU题目分类,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/22/zhaojiedi1992.html
+2012-07-26 04:00,...,...,NYOJ264国王的魔镜,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/26/zhaojiedi_2012_07_09.html
+2012-07-26 04:04,...,...,nyoj417死神来了,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/26/zhaojiedi_2012_07_090.html
+2012-07-26 04:11,...,...,nyoj274正三角形的外接圆面积,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/26/zhaojiedi_2012_06_28.html
+2012-07-26 04:13,...,...,nyoj24大数阶乘,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/26/zhaojiedi_2012_06_280.html
+2012-07-26 04:16,...,...,nyoj223小明的烦恼,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/26/zhaojiedi_2012_06_21.html
+2012-07-26 04:18,...,...,nyoj458小光棍数,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/26/zhaojiedi_2012_06_2100.html
+2012-07-26 04:21,...,...,nyoj244    16进制的简单运算,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/26/zhaojiedi_2012_06_21000.html
+2012-07-26 04:23,...,...,nyoj263精　挑　细　选,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/26/zhaojiedi_2012_06_210000.html
+2012-07-26 04:25,...,...,nyoj455黑色帽子,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/26/zhaojiedi_2012_06_2100000.html
+2012-07-26 04:28,...,...,nyoj97兄弟郊游问题,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/26/zhaojiedi_2012_06_18.html
+2012-07-26 04:30,...,...,nyoj53不高兴的小明,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/26/zhaojiedi1992_2012_06_180.html
+2013-05-21 22:38,...,...,管理表空间和数据文件——建立表空间——建立字典管理表空间和建立加密表空间,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/21/oracle11g_sql_0043.html
+2013-05-21 22:41,...,...,oracle Wallet的使用,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/21/oracle11g_sql_0044.html
+2013-05-22 13:05,...,...,管理表空间和数据文件——建立表空间——建立大文件表空间和建立undo表空间和建立非标准表空间,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/22/oracle11g_sql_0045.html
+2013-05-22 13:41,...,...,管理表空间和数据文件——建立表空间——建立临时表空间,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/22/oracle11g_sql_0046.html
+2013-05-22 16:43,...,...,管理表空间和数据文件——维护表空间——改变表空间的可用性,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/22/oracle11g_sql_0047.html
+2013-05-22 19:44,...,...,管理表空间和数据文件——维护表空间——改变表空间的读写状态和改变表空间名称,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/22/oracle11g_sql_0048.html
+2013-05-22 21:35,...,...,管理表空间和数据文件——维护表空间——设置默认表空间和删除表空间和删除数据文件盒临时文件,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/22/oracle11g_sql_0049.html
+2013-05-23 12:34,...,...,管理表空间和数据文件——扩展表空间,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/23/oracle11g_sql_0050.html
+2013-05-23 18:25,...,...,管理表空间和数据文件——移动数据文件,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/23/oracle11g_sql_0051.html
+2013-05-24 21:26,...,...,管理表空间和数据文件——使用OMF方式管理表空间,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/24/oracle11g_sql_0052.html
+2013-05-24 23:06,...,...,管理表空间和数据文件——显示表空间和数据文件信息,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/24/oracle11g_sql_0053.html
+2013-05-25 09:05,...,...,管理对象空间——段,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/25/oracle11g_sql_0054.html
+2013-05-25 14:23,...,...,管理对象空间——管理存储参数,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/25/oracle11g_sql_0055.html
+2013-05-25 21:31,...,...,管理对象空间——使用存储参数和显示区信息,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/25/oracle11g_sql_0056.html
+2013-05-26 21:10,...,...,管理数据块空间——块空间参数,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/26/oracle11g_sql_0057.html
+2013-05-27 11:13,...,...,管理数据块空间,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/27/oracle11g_sql_0058.html
+2013-05-28 17:29,...,...,管理用户和PROFILE——用户方案和profile,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/28/oracle11g_sql_0059.html
+2013-05-28 20:06,...,...,管理用户和PROFILE——管理用户,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/28/oracle11g_sql_0060.html
+2013-05-29 11:10,...,...,管理用户和PROFILE——管理用户——修改用户,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/29/oracle11g_sql_0061.html
+2013-05-29 20:23,...,...,管理用户和PROFILE ——管理PROFILE——使用PROFILE管理口令,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/29/oracle11g_sql_0062.html
+2013-05-31 20:57,...,...,管理用户和PROFILE ——管理PROFILE——使用PROFILE管理资源,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/31/oracle11g_sql_0063.html
+2013-06-01 08:48,...,...,Io 异常 The Network Adapter could not establish the connection的三种解决方法,http://www.cnblogs.com/zhaojiedi1992/archive/2013/06/01/oracle11g_sql_0064.html
+2013-04-30 21:36,...,...,使用控制结构——条件分支语句——二重条件条件,http://www.cnblogs.com/zhaojiedi1992/archive/2013/04/30/oracle11g_sql_003.html
 2013-04-30 21:57,...,...,使用控制结构——条件分支语句——多重条件分支,http://www.cnblogs.com/zhaojiedi1992/archive/2013/04/30/oracle11g_sql_004.html
 2013-04-30 22:12,...,...,使用控制结构——条件分支语句——CASE语句,http://www.cnblogs.com/zhaojiedi1992/archive/2013/04/30/oracle11g_sql_005.html
-2013-04-30 21:36,...,...,使用控制结构——条件分支语句——二重条件条件,http://www.cnblogs.com/zhaojiedi1992/archive/2013/04/30/oracle11g_sql_003.html
 2013-04-30 22:22,...,...,使用控制结构——循环语句——基本循环,http://www.cnblogs.com/zhaojiedi1992/archive/2013/04/30/oracle11g_sql_006.html
 2013-04-30 22:29,...,...,使用控制结构——循环语句——WHILE循环,http://www.cnblogs.com/zhaojiedi1992/archive/2013/04/30/oracle11g_sql_007.html
 2013-04-30 22:36,...,...,使用控制结构——循环语句——FOR循环,http://www.cnblogs.com/zhaojiedi1992/archive/2013/04/30/oracle11g_sql_008.html
 2013-04-30 22:55,...,...,使用控制结构——循环语句——嵌套循环和标号,http://www.cnblogs.com/zhaojiedi1992/archive/2013/04/30/oracle11g_sql_009.html
 2013-04-30 23:05,...,...,使用控制结构——顺序控制语句——GOTO和NULL,http://www.cnblogs.com/zhaojiedi1992/archive/2013/04/30/oracle11g_sql_0010.html
 2013-04-30 23:40,...,...,使用游标——显式游标,http://www.cnblogs.com/zhaojiedi1992/archive/2013/04/30/oracle11g_sql_0011.html
-2013-05-01 09:54,...,...,使用游标——游标FOR循环,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/01/oracle11g_sql_0013.html
 2013-04-30 23:55,...,...,使用游标——参数游标,http://www.cnblogs.com/zhaojiedi1992/archive/2013/04/30/oracle11g_sql_0012.html
+2013-05-01 09:54,...,...,使用游标——游标FOR循环,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/01/oracle11g_sql_0013.html
 2013-05-01 10:40,...,...,使用游标——使用游标更新或删除数据,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/01/oracle11g_sql_0014.html
 2013-05-01 11:59,...,...,使用例外,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/01/oracle11g_sql_0015.html
 2013-05-01 14:59,...,...,使用复合数据类型——PL/SQL记录,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/01/oracle11g_sql_0016.html
@@ -188,71 +198,34 @@ date,read,say,title,url
 2013-05-01 18:04,...,...,使用复合数据类型——PL/SQL记录表,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/01/oracle11g_sql_0018.html
 2013-05-02 12:07,...,...,开发PL/SQL子程序——过程,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/02/oracle11g_sql_0019.html
 2013-05-02 12:20,...,...,开发PL/SQL子程序——函数,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/02/oracle11g_sql_0020.html
+2013-05-03 22:03,...,...,开发PL/SQL子程序——包,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/03/oracle11g_sql_0021.html
+2013-05-07 07:50,...,...,开发PL/SQL子程序——触发器——语句触发器,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/07/oracle11g_sql_0022.html
 2013-05-07 16:47,...,...,开发PL/SQL子程序——触发器——行触发器,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/07/oracle11g_sql_0023.html
 2013-05-07 17:00,...,...,开发PL/SQL子程序——触发器——使用触发器注意事项,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/07/oracle11g_sql_0024.html
-2013-05-07 07:50,...,...,开发PL/SQL子程序——触发器——语句触发器,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/07/oracle11g_sql_0022.html
 2013-05-07 17:06,...,...,开发PL/SQL子程序——触发器——编译触发器，删除触发器，显示触发器,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/07/oracle11g_sql_0025.html
-2012-07-27 22:09,...,...,NYOJ24素数距离问题,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/27/zhaojiedi_2012_06_06.html
-2013-05-03 22:03,...,...,开发PL/SQL子程序——包,http://www.cnblogs.com/zhaojiedi1992/archive/2013/05/03/oracle11g_sql_0021.html
-2012-07-27 22:16,...,...,HDUOJ   Metric Time,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/27/zhaojiedi_2012_07_27.html
-2012-07-27 22:19,...,...,HDUOJ  Calendar,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/27/zhaojiedi_2012_07_2600.html
-2012-07-27 22:26,...,...,HDUOJ1000 A+B Problem,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/27/zhaojiedi_2012_07_24.html
-2012-07-27 22:25,...,...,HDUOJ3981字符串替换,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/27/zhaojiedi_2012_07_250000.html
-2012-07-27 22:21,...,...,HDUOJ 2636   Electrical Outlets,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/27/zhaojiedi_2012_07_250.html
-2012-07-27 22:30,...,...,HDUOJ2014 青年歌手大奖赛_评委会打分,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/27/zhaojiedi_2012_07_270.html
-2012-07-27 22:33,...,...,HDUOJ2115I    Love This Game,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/27/zhaojiedi_2012_07_270000.html
-2012-07-27 22:23,...,...,HDUOJ3980取模运算,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/27/zhaojiedi_2012_07_2500.html
-2012-07-27 22:34,...,...,HDUOJ1005Number Sequence,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/27/zhaojiedi_2012_07_25.html
-2012-07-27 22:31,...,...,HDUOJ1860  统计字符,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/27/zhaojiedi_2012_07_27000.html
-2012-07-27 22:39,...,...,HDUOJ1004Let the Balloon Rise,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/27/zhaojiedi_2012_07_260000.html
-2012-07-27 22:38,...,...,HDUOJ1234开门人和关门人,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/27/zhaojiedi_2012_07_2500000.html
-2012-07-27 22:41,...,...,HDUOJ1877 又一版 A+B,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/27/zhaojiedi_2012_07_240.html
-2012-07-27 22:42,...,...,HDUOJ3201  Build a Fence,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/27/zhaojiedi_2012_07_2400.html
-2012-07-27 22:48,...,...,HDUOJ1021 Fibonacci Again,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/27/zhaojiedi_2012_07_18000.html
-2012-07-30 11:19,...,...,NYOJ242计算球体积,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/30/zhaojiedi_2012_06_060.html
-2012-07-30 11:23,...,...,NYOJ101两点距离,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/30/zhaojiedi_2012_06_04.html
-2012-07-27 22:36,...,...,HDUOJ1002A + B Problem II,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/27/zhaojiedi_2012_07_26000.html
-2012-07-30 11:27,...,...,NYOJ1001的个数,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/30/zhaojiedi_2012_06_040.html
-2012-07-30 11:29,...,...,NYOJ77开灯问题,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/30/zhaojiedi_2012_06_0400.html
-2012-07-30 11:32,...,...,NYOJ74小学生算术,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/30/zhaojiedi_2012_06_04000.html
-2012-07-30 11:33,...,...,NYOJ72Financial Management,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/30/zhaojiedi_2012_06_040000.html
-2012-07-30 11:36,...,...,NYOJ4ASCII码排序,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/30/zhaojiedi_2012_06_030.html
-2012-07-30 11:37,...,...,NYOJ98成绩转换,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/30/zhaojiedi_2012_06_0300.html
-2012-07-30 11:34,...,...,NYOJ11奇偶数分离,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/30/zhaojiedi_2012_06_03.html
-2012-07-30 11:42,...,...,NYOJ75日期计算,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/30/zhaojiedi_2012_06_020.html
-2012-07-30 11:44,...,...,NYOJ65另一种阶乘问题,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/30/zhaojiedi_2012_06_01.html
-2012-07-30 11:38,...,...,NYOJ96n-1位数,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/30/zhaojiedi_2012_06_02.html
-2012-08-02 14:33,...,...,NYOJ103A+B Problem II,http://www.cnblogs.com/zhaojiedi1992/archive/2012/08/02/zhaojiedi_2012_08_02.html
-2012-07-30 11:47,...,...,NYOJ40公约数和公倍数,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/30/zhaojiedi_2012_06_0100.html
-2012-07-21 13:16,...,...,hduoj1092,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/21/zhaojiedi_2012_05_270000.html
-2012-07-30 11:52,...,...,NYOJ39水仙花数,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/30/zhaojiedi_2012_06_01000.html
-2012-07-21 13:18,...,...,hduoj1091A+B for Input-Output Practice (III),http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/21/zhaojiedi_2012_05_2700000.html
-2012-07-21 13:20,...,...,hduoj1090A+B for Input-Output Practice (II),http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/21/zhaojiedi_2012_05_27000000.html
-2012-07-21 13:22,...,...,hduoj1089A+B for Input-Output Practice (I),http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/21/zhaojiedi_2012_05_270000000.html
-2012-07-22 12:26,...,...,HDU题目分类,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/22/zhaojiedi1992.html
-2012-07-22 11:45,...,...,hduoj1042N!,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/22/zhaojiedi_2012_07_22.html
-2012-07-26 04:04,...,...,nyoj417死神来了,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/26/zhaojiedi_2012_07_090.html
-2012-07-26 04:00,...,...,NYOJ264国王的魔镜,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/26/zhaojiedi_2012_07_09.html
-2012-07-30 11:45,...,...,NYOJ41三个数从小到大排序,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/30/zhaojiedi_2012_06_010.html
-2012-07-26 04:11,...,...,nyoj274正三角形的外接圆面积,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/26/zhaojiedi_2012_06_28.html
-2012-07-26 04:13,...,...,nyoj24大数阶乘,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/26/zhaojiedi_2012_06_280.html
-2012-07-26 04:16,...,...,nyoj223小明的烦恼,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/26/zhaojiedi_2012_06_21.html
-2012-07-26 04:21,...,...,nyoj244    16进制的简单运算,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/26/zhaojiedi_2012_06_21000.html
-2012-07-26 04:25,...,...,nyoj455黑色帽子,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/26/zhaojiedi_2012_06_2100000.html
-2012-07-26 04:23,...,...,nyoj263精　挑　细　选,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/26/zhaojiedi_2012_06_210000.html
-2012-07-26 04:38,...,...,nyoj436sum of all integer numbers,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/26/zhaojiedi_2012_06_16.html
-2012-07-26 04:28,...,...,nyoj97兄弟郊游问题,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/26/zhaojiedi_2012_06_18.html
-2012-07-26 04:18,...,...,nyoj458小光棍数,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/26/zhaojiedi_2012_06_2100.html
-2012-07-26 04:30,...,...,nyoj53不高兴的小明,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/26/zhaojiedi1992_2012_06_180.html
-2012-07-26 04:39,...,...,nyoj50爱摘苹果的小明,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/26/zhaojiedi_2012_06_15.html
+2012-08-23 17:08,...,...,NYOJ128前缀式计算,http://www.cnblogs.com/zhaojiedi1992/archive/2012/08/23/zhaojiedi_2012_08_1600.html
+2012-11-02 08:47,...,...,NYOJ176 整数划分（二）,http://www.cnblogs.com/zhaojiedi1992/archive/2012/11/02/zhaojiedi-20121102.html
+2012-11-02 08:50,...,...,NYOJ427 NUMBER SEQUENCE,http://www.cnblogs.com/zhaojiedi1992/archive/2012/11/02/zhaojiedi-201211020.html
+2012-11-02 08:53,...,...,NYOJ467 中缀式变后缀式,http://www.cnblogs.com/zhaojiedi1992/archive/2012/11/02/zhaojiedi-2012110200.html
+2012-11-12 21:42,...,...,NYOJ92图像有用区域,http://www.cnblogs.com/zhaojiedi1992/archive/2012/11/12/zhaojiedi1992_2012_11_12.html
+2012-11-12 21:50,...,...,NYOJ488素数环,http://www.cnblogs.com/zhaojiedi1992/archive/2012/11/12/zhaojiedi_2012_11_12_2.html
+2012-11-12 21:54,...,...,NYOJ325zb的生日,http://www.cnblogs.com/zhaojiedi1992/archive/2012/11/12/zhaojiedi_2012_11_11.html
+2012-11-12 21:57,...,...,NYOJ20吝啬的国度,http://www.cnblogs.com/zhaojiedi1992/archive/2012/11/12/zhaojiedi_2012_11_11_2.html
+2012-11-12 22:01,...,...,NYOJ287Radar,http://www.cnblogs.com/zhaojiedi1992/archive/2012/11/12/zhaojiedi_2012_11_11_03.html
+2012-11-12 22:04,...,...,NYOJ236心急的C小加,http://www.cnblogs.com/zhaojiedi1992/archive/2012/11/12/zhaojiedi_2012_11_11_3.html
+2012-11-12 22:06,...,...,NYOJ71独木舟上的旅行,http://www.cnblogs.com/zhaojiedi1992/archive/2012/11/12/zhaojiedi_2012_11_11_4.html
+2012-11-12 22:08,...,...,NYOJ47过河问题,http://www.cnblogs.com/zhaojiedi1992/archive/2012/11/12/zhaojiedi_2012_11_11_5.html
+2012-11-14 21:36,...,...,NYOJ519密码发生器,http://www.cnblogs.com/zhaojiedi1992/archive/2012/11/14/zhaojiedi1992_2012_11_14.html
 2012-07-26 04:31,...,...,nyoj23取石子（一）,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/26/zhaojiedi_2012_06_1800.html
+2012-07-26 04:38,...,...,nyoj436sum of all integer numbers,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/26/zhaojiedi_2012_06_16.html
+2012-07-26 04:39,...,...,nyoj50爱摘苹果的小明,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/26/zhaojiedi_2012_06_15.html
 2012-07-26 04:40,...,...,nyoj206矩形的个数,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/26/zhaojiedi_2012_06_14.html
+2012-07-26 04:42,...,...,nyoj259茵茵的第一课,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/26/zhaojiedi_2012_06_140.html
 2012-07-26 04:44,...,...,nyoj198数数,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/26/zhaojiedi_2012_06_14000.html
 2012-07-27 21:40,...,...,NYOJ261玩转矩阵的C小加,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/27/zhaojiedi_2012_07_26.html
 2012-07-27 21:41,...,...,nyoj113字符串替换,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/27/zhaojiedi_2012_07_260.html
 2012-07-27 21:43,...,...,NYOJ260数数小木块,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/27/zhaojiedi_2012_06_1400.html
 2012-07-27 21:46,...,...,NYOJ324猴子吃桃问题,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/27/zhaojiedi_2012_06_12.html
-2012-07-26 04:42,...,...,nyoj259茵茵的第一课,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/26/zhaojiedi_2012_06_140.html
 2012-07-27 21:47,...,...,NYOJ399整除个数,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/27/zhaojiedi_2012_06_120.html
 2012-07-27 21:50,...,...,NYOJ457大小写互换,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/27/zhaojiedi_2012_06_1200.html
 2012-07-27 21:53,...,...,NYOJ463九九乘法表,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/27/zhaojiedi_2012_06_12000.html
@@ -272,23 +245,50 @@ date,read,say,title,url
 2012-07-21 12:33,...,...,hduoj1021    Fibonacci Again,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/21/zhaojiedi_2012_07_18.html
 2012-07-21 12:44,...,...,hduoj1019  Least Common Multiple,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/21/zhaojiedi_2012_07_180.html
 2012-07-21 12:47,...,...,hduoj1018  Big Number,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/21/zhaojiedi_2012_07_1800.html
-2015-11-17 11:37,...,...,STL学习系列三：Deque容器,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_stl_003.html
+2012-07-27 22:16,...,...,HDUOJ   Metric Time,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/27/zhaojiedi_2012_07_27.html
+2012-07-27 22:19,...,...,HDUOJ  Calendar,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/27/zhaojiedi_2012_07_2600.html
+2012-07-27 22:21,...,...,HDUOJ 2636   Electrical Outlets,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/27/zhaojiedi_2012_07_250.html
+2012-07-27 22:23,...,...,HDUOJ3980取模运算,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/27/zhaojiedi_2012_07_2500.html
+2012-07-27 22:25,...,...,HDUOJ3981字符串替换,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/27/zhaojiedi_2012_07_250000.html
+2012-07-27 22:26,...,...,HDUOJ1000 A+B Problem,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/27/zhaojiedi_2012_07_24.html
+2012-07-27 22:30,...,...,HDUOJ2014 青年歌手大奖赛_评委会打分,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/27/zhaojiedi_2012_07_270.html
+2012-07-27 22:31,...,...,HDUOJ1860  统计字符,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/27/zhaojiedi_2012_07_27000.html
+2012-07-27 22:33,...,...,HDUOJ2115I    Love This Game,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/27/zhaojiedi_2012_07_270000.html
+2012-07-27 22:34,...,...,HDUOJ1005Number Sequence,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/27/zhaojiedi_2012_07_25.html
+2012-07-27 22:36,...,...,HDUOJ1002A + B Problem II,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/27/zhaojiedi_2012_07_26000.html
+2012-07-27 22:39,...,...,HDUOJ1004Let the Balloon Rise,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/27/zhaojiedi_2012_07_260000.html
+2012-07-27 22:41,...,...,HDUOJ1877 又一版 A+B,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/27/zhaojiedi_2012_07_240.html
+2012-07-27 22:42,...,...,HDUOJ3201  Build a Fence,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/27/zhaojiedi_2012_07_2400.html
+2012-07-27 22:38,...,...,HDUOJ1234开门人和关门人,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/27/zhaojiedi_2012_07_2500000.html
+2012-07-27 22:44,...,...,HDUOJ3782  xxx定律,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/27/zhaojiedi_2012_07_23.html
+2012-07-27 22:48,...,...,HDUOJ1021 Fibonacci Again,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/27/zhaojiedi_2012_07_18000.html
+2012-07-30 11:19,...,...,NYOJ242计算球体积,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/30/zhaojiedi_2012_06_060.html
+2012-07-30 11:23,...,...,NYOJ101两点距离,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/30/zhaojiedi_2012_06_04.html
+2012-07-30 11:27,...,...,NYOJ1001的个数,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/30/zhaojiedi_2012_06_040.html
+2012-07-30 11:29,...,...,NYOJ77开灯问题,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/30/zhaojiedi_2012_06_0400.html
+2012-07-30 11:32,...,...,NYOJ74小学生算术,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/30/zhaojiedi_2012_06_04000.html
+2012-07-30 11:33,...,...,NYOJ72Financial Management,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/30/zhaojiedi_2012_06_040000.html
+2012-07-30 11:34,...,...,NYOJ11奇偶数分离,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/30/zhaojiedi_2012_06_03.html
+2012-07-30 11:36,...,...,NYOJ4ASCII码排序,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/30/zhaojiedi_2012_06_030.html
+2012-07-30 11:37,...,...,NYOJ98成绩转换,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/30/zhaojiedi_2012_06_0300.html
+2012-07-30 11:38,...,...,NYOJ96n-1位数,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/30/zhaojiedi_2012_06_02.html
+2012-07-30 11:42,...,...,NYOJ75日期计算,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/30/zhaojiedi_2012_06_020.html
+2012-07-30 11:44,...,...,NYOJ65另一种阶乘问题,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/30/zhaojiedi_2012_06_01.html
+2012-07-30 11:45,...,...,NYOJ41三个数从小到大排序,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/30/zhaojiedi_2012_06_010.html
+2012-07-30 11:47,...,...,NYOJ40公约数和公倍数,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/30/zhaojiedi_2012_06_0100.html
+2012-07-30 11:52,...,...,NYOJ39水仙花数,http://www.cnblogs.com/zhaojiedi1992/archive/2012/07/30/zhaojiedi_2012_06_01000.html
+2012-08-02 14:33,...,...,NYOJ103A+B Problem II,http://www.cnblogs.com/zhaojiedi1992/archive/2012/08/02/zhaojiedi_2012_08_02.html
 2015-12-07 11:03,...,...,STL学习系列四：Stack容器,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_stl_004.html
 2015-12-07 11:33,...,...,STL学习系列五：Queue容器,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_stl_005.html
 2015-12-08 10:38,...,...,STL学习系列六：List容器,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_stl_006.html
 2015-12-08 10:47,...,...,STL学习系列七：优先级队列priority_queue容器,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_stl_007.html
 2015-12-08 10:51,...,...,STL学习系列八：Set和multiset容器,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_stl_008.html
-2015-12-14 10:31,...,...,STL学习系列九：Map和multimap容器,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_stl_009.html
-2015-12-31 15:47,...,...,c#动态加载dll文件,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_cs_0001.html
-2016-02-15 14:33,...,...,jquery中的事件,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_js_004.html
+2016-04-12 13:29,...,...,WebBrowser使用例子,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_cs_002.html
 2016-04-27 17:56,...,...,arcgis 加载png图片实现图片跟随地图缩放 和图片的动态播放,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_arcgis_001.html
 2016-06-12 09:52,...,...,linux下umask的使用讲解,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_linux_001.html
-2016-02-15 15:21,...,...,jquery中的动画,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_js_005.html
-2016-04-05 21:27,...,...,c#调用c++ dll的一个例子,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_cs_001.html
 2016-07-11 21:52,...,...,yum源配置,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_linux_002.html
-2016-04-12 13:29,...,...,WebBrowser使用例子,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_cs_002.html
 2016-07-11 22:47,...,...,centos7编译linux的内核源码,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_linux_003.html
 2016-07-22 19:04,...,...,记一次安装Ipython的流程,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_python_001.html
 2016-08-19 10:45,...,...,如何使用借助python完成 ARCGIS工具箱的调用,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_python_003.html
-2016-11-29 09:03,...,...,wget的使用详解,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_linux_004.html
 2016-11-14 16:04,...,...,DateTimeHelper,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_csharp_001.html
+2016-11-29 09:03,...,...,wget的使用详解,http://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_linux_004.html
